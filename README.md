@@ -1,4 +1,4 @@
-# simple-time-v2
+# Simple timer
 Just a simple timer made with JavaScript, HTML and CSS using Date object
 <hr>
 
